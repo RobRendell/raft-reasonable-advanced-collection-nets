@@ -7,8 +7,8 @@
   "icon": "icon.png",
   "banner": "banner.jpg",
   "gameVersion": "1.0",
-  "requiredByAllPlayers": false,
   "updateUrl": "https://www.raftmodding.com/api/v1/mods/reasonable-advanced-collection-nets/version.txt",
   "isModPermanent": false,
+  "requiredByAllPlayers": false,
   "excludedFiles": []
 }

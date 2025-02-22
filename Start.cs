@@ -17,7 +17,7 @@ public class ReasonableAdvancedCollectionNets : Mod
 			new CostMultiple(new Item_Base[] { ItemManager.GetItemByName("MetalIngot") }, 3),
 		};
 
-        Debug.Log("ReasonableAdvancedCollectionNets: Changed recipe for Advanced Collection Nets.");
+        Debug.Log("[Reasonable Advanced Collection Nets] Mod has been loaded!");
     }
 
 }
