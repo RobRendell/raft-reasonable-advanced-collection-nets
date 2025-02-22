@@ -1,0 +1,14 @@
+{
+  "name": "Reasonable Advanced Nets",
+  "author": "RobRendell",
+  "description": "Changes the recipe for the vanilla Advanced Collection Net to use metal instead of titanium.",
+  "version": "1.0.0",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/reasonable-advanced-collection-nets/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
